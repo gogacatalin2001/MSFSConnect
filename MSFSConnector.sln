@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSFSConnector", "MSFSConnector.vcxproj", "{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Debug|x64.ActiveCfg = Debug|x64
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Debug|x64.Build.0 = Debug|x64
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Debug|x86.Build.0 = Debug|Win32
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Release|x64.ActiveCfg = Release|x64
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Release|x64.Build.0 = Release|x64
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Release|x86.ActiveCfg = Release|Win32
+		{10988900-2B9C-41E9-8B49-CD8CC5CC1DE0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {281A0A9D-BB41-4377-B5E7-ACCC8D9C5803}
+	EndGlobalSection
+EndGlobal
